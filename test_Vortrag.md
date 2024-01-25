@@ -38,10 +38,6 @@ pie title Pets adopted by volunteers
 
 ```
 
-##Unterstrichener Text
-
-++unterstrichen++
-
 ## Bild
 
 ![Bild](https://codecaptured.com/blog/images/Markdown-Logo.png)
