@@ -28,7 +28,7 @@ Das ist eine Beispielüberschrift.
 
 3. drittens
 
-Here is a simple flow chart:
+Here is a simple pie chart:
 
 ```mermaid
 pie title Pets adopted by volunteers
