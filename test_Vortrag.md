@@ -1,9 +1,5 @@
 # Beispiel-MD-Datei
 
-## Überschrift
-
-Das ist eine Beispielüberschrift.
-
 ## Fettdruck
 
 **Dieser Text ist fett gedruckt.**
@@ -15,10 +11,6 @@ Das ist eine Beispielüberschrift.
 | Inhalt A | Inhalt B | Inhalt C |
 | Inhalt D | Inhalt E | Inhalt F |
 
-## Kursiv
-
-
-*Dieser Text ist kursiv.*
 
 ## Geordnete Liste
 
