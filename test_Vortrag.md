@@ -31,11 +31,24 @@ Das ist eine Beispielüberschrift.
 Here is a simple flow chart:
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+pie title Pets adopted by volunteers
+
+“Dogs” : 386
+
+“Cats” : 85
+
+“Rats” : 15
+
+title: Simple sample
+stateDiagram-v2
+[] --> Still
+Still --> []
+
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+
 ```
 
 ##Unterstrichener Text
