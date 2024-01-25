@@ -28,12 +28,15 @@ Das ist eine Beispielüberschrift.
 
 3. drittens
 
-## Kreisdiagramm
+Here is a simple flow chart:
 
-pie title Pets adopted by volunteers
-"Dogs" : 386
-"Cats" : 85
-"Rats" : 15
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ##Unterstrichener Text
 
